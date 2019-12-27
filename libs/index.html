@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        html,body{
+            width: 100%;
+            height: 100%;
+        }
+        .fill{
+            object-fit: contain;
+            width: 200px;
+            height: auto;
+        }
+        #movie{
+            position:absolute;
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            bottom: 0px;
+        }
+        #media{
+            width: 100%;
+            height: 100%;
+            /* display: flex;
+            flex-direction: column;
+            justify-content: center;
+            flex-wrap: wrap;
+            align-items: center; */
+            position: relative;
+        }
+        #imgContainer img{
+            object-fit: fill;            
+        }
+    </style>
+</head>
+<body>
+    <div id="media">
+        <video src="https://media.w3.org/2010/05/sintel/trailer.mp4" controls="controls" id="movie"></video>
+        <!-- <div id="imgContainer">
+            <img src="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" class="fill"/>
+        </div> -->
+    </div>  
+    <script>
+        let movie = document.getElementById("movie");
+        let controls = movie.controls;
+        console.log("controls is ",controls);
+        console.log("movie's autoplay is ",movie.autoplay);
+        movie.style.cssText = "object-fit: none";
+        let mediaContainer = document.getElementById("media");
+        // let video = document.getElementById("movie");
+        let tempDiv = document.createElement("div");
+        tempDiv.innerHTML = "tempDiv";
+        tempDiv.innerText = "temp";
+        tempDiv.setAttribute("id","tempNode");
+        mediaContainer.appendChild(tempDiv);
+        mediaContainer.insertBefore(tempDiv,movie);
+    </script>
+</body>
+</html>
