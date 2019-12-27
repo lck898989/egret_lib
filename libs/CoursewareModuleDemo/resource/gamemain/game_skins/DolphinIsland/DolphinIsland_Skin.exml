@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DolphinIsland_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+			<e:Image id="img_bg" source="dolphinIsland_1_07_jpg" x="0" y="0"/>
+			<e:Group id="dragonGroup" x="1082" y="778"/>
+
+			<e:Image id="pageImg1" source="dolphinIsland_1_02_png" x="495" y="230" anchorOffsetX="555.5" anchorOffsetY="223" locked="true"/>
+			<e:Image id="pageImg3" source="dolphinIsland_1_03_png" x="475" y="650" anchorOffsetX="656" anchorOffsetY="310" locked="true"/>
+			<e:Image id="pageImg2" source="dolphinIsland_1_04_png" x="1210" y="370" anchorOffsetX="555.5" anchorOffsetY="223" locked="true"/>
+			<e:Image id="pageImg4" source="dolphinIsland_1_05_png" x="1395" y="760" anchorOffsetX="656" anchorOffsetY="310" locked="true"/>
+			<e:Image id="pageImg5" source="dolphinIsland_1_06_png" x="739" y="1070" anchorOffsetX="555.5" anchorOffsetY="223" locked="true"/>
+    </e:Group>
+</e:Skin>

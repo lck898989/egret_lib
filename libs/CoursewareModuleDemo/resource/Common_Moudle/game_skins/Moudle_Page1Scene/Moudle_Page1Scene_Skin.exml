@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Moudle_Page1Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="Moudle_page_scene_bg1_jpg" x="0" y="0"/>
+			<e:Image id="img_1" x="530.66" y="240.5" source="Moudle_big_page_scene2_json.14_1"/>
+    </e:Group>
+</e:Skin>

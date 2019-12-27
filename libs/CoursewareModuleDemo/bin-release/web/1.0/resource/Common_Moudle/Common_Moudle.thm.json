@@ -1,0 +1,27 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/Common_Moudle/game_skins/Moudle_Page10Scene/Moudle_Page10Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page11Scene/Moudle_Page11Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page12Scene/Moudle_Page12Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page13Scene/Moudle_Page13Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page14Scene/Moudle_Page14Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page15Scene/Moudle_Page15Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page16Scene/Moudle_Page16Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page1Scene/Moudle_Page1Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page2Scene/Moudle_Page2Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page3Scene/Moudle_Page3Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page4Scene/Moudle_Page4Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page5Scene/Moudle_Page5Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page6Scene/Moudle_Page6Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page7Scene/Moudle_Page7Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page8Scene/Moudle_Page8Scene_Skin.exml",
+		"resource/Common_Moudle/game_skins/Moudle_Page9Scene/Moudle_Page9Scene_Skin.exml",
+		"resource/gamemain/game_skins/ClassOverScene/ClassOverScene_Skin.exml",
+		"resource/gamemain/game_skins/ClassOverScene/ClassSumUpScene_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml",
+		"resource/gamemain/game_skins/DolphinIsland/DolphinIsland_Skin.exml"
+	],
+	"path": "resource/Common_Moudle/Common_Moudle.thm.json"
+}

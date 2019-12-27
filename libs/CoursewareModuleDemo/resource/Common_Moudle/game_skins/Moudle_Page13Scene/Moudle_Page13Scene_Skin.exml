@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Moudle_Page13Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" x="0" y="0" source="Moudle_page_scene_bg13_jpg"/>
+      <e:Image id="img1" x="1190.79" y="309.91" source="Moudle_scene13_json.no_png"/>
+			<e:Image id="img2" source="Moudle_scene13_json.yes_png" x="1337" y="310"/>
+			<e:Image id="img3" source="Moudle_scene13_json.no_png" x="1190.79" y="490"/>
+			<e:Image id="img4" source="Moudle_scene13_json.yes_png" x="1337" y="490"/>
+			<e:Image id="img5" source="Moudle_scene13_json.no_png" x="1190.79" y="670"/>
+			<e:Image id="img6" source="Moudle_scene13_json.yes_png" x="1337" y="672"/>
+			<e:Image id="img7" source="Moudle_scene13_json.no_png" x="1192.79" y="840"/>
+			<e:Image id="img8" source="Moudle_scene13_json.yes_png" x="1339" y="842"/>
+			<e:Image id="img9" source="Moudle_scene13_json.no_png" x="1190.79" y="996"/>
+			<e:Image id="img10" source="Moudle_scene13_json.yes_png" x="1339" y="996"/>
+    </e:Group>
+</e:Skin>

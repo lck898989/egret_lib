@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Moudle_Page11Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="Moudle_page_scene_bg11_jpg" x="0" y="0"/>
+			<e:Rect id="rect_1" width="359.39" height="362.42" x="424.64" y="173.4" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_2" width="320" height="350.3" x="695.21" y="489.14" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_3" width="262.42" height="350.3" x="223.74" y="804.31" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_4" width="262.43" height="353.33" x="486.16" y="801.28" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Image id="img_1" x="1075.86" y="214.02" source="Moudle_big_page_scene11_json.9_1"/>
+			<e:Image id="img_2" x="1315.15" y="210.99" source="Moudle_big_page_scene11_json.9_2"/>
+			<e:Image id="img_3" x="1087.98" y="674" source="Moudle_big_page_scene11_json.9_3"/>
+			<e:Image id="img_4" x="1321.21" y="674" source="Moudle_big_page_scene11_json.9_4"/>
+
+    </e:Group>
+</e:Skin>

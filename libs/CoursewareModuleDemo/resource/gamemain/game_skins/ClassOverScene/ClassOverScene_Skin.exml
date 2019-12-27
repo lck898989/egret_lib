@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ClassOverScene_Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group>
+		<e:Image source="completescene_bg_png"/>
+		<e:Image id="img0" scaleX="1" scaleY="1" source="completescene_pen_png" y="341.5" x="0"/>
+		<e:Image id="img1" scaleX="1" scaleY="1" source="completescene_text1_png" x="434.5"/>
+		<e:Image id="img2" scaleX="1" scaleY="1" source="completescene_text2_png" x="711.5" y="0"/>
+		<e:Image id="img3" scaleX="1" scaleY="1" source="completescene_text3_png" x="990.02"/>
+		<e:Image id="img4" scaleX="1" scaleY="1" source="completescene_text4_png" x="58.99" y="0"/>
+		<e:Image id="img5" scaleX="1" scaleY="1" source="completescene_text5_png" x="250.99" y="0"/>
+		<e:Image id="img6" scaleX="1" scaleY="1" source="completescene_text6_png" x="470.99" y="0"/>
+		<e:Image id="img7" scaleX="1" scaleY="1" source="completescene_text7_png" x="681.5" y="0"/>
+		<e:Image id="img8" scaleX="1" scaleY="1" source="completescene_text8_png" x="882.5" y="0"/>
+		<e:Image id="img9" scaleX="1" scaleY="1" source="completescene_text9_png" x="1086.02" y="0"/>
+		<e:Image id="img10" scaleX="1" scaleY="1" source="completescene_text10_png" x="1266.02" y="0"/>
+		<e:Image id="img11" scaleX="1" scaleY="1" source="completescene_text11_png" x="1466.99" y="0"/>
+	</e:Group>
+</e:Skin>

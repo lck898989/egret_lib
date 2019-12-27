@@ -1,0 +1,11 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": false,
+	"exmls": [
+		"resource/gamemain/game_skins/ClassOverScene/ClassOverScene_Skin.exml",
+		"resource/gamemain/game_skins/ClassOverScene/ClassSumUpScene_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml",
+		"resource/gamemain/game_skins/DolphinIsland/DolphinIsland_Skin.exml"
+	],
+	"path": "resource/gamemain/default.thm.json"
+}

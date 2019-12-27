@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Moudle_Page10Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="Moudle_page_scene_bg10_jpg" x="0" y="0"/>
+			<e:Rect id="rect_1" width="1449.58" height="371.52" x="3.59" y="917.4" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Image id="img_1" x="466.58" y="156.78" source="Moudle_big_page_scene10_json.4_1"/>
+			<e:Image id="img_2" x="582.08" y="225.7" source="Moudle_big_page_scene10_json.4_2"/>
+			<e:Image id="img_3" x="840.27" y="259.03" source="Moudle_big_page_scene10_json.4_3"/>
+			<e:Image id="img_4" x="932.76" y="256" source="Moudle_big_page_scene10_json.4_4"/>
+			<e:Image id="img_5" x="668.53" y="246.91" source="Moudle_big_page_scene10_json.4_5"/>
+			<e:Image id="img_6" x="755.72" y="256" source="Moudle_big_page_scene10_json.4_6"/>
+			<e:Image id="img_7" x="1011.55" y="240.84" source="Moudle_big_page_scene10_json.4_7" anchorOffsetX="-3.03" anchorOffsetY="-12.12"/>
+			<e:Image id="img_8" x="436.28" y="463.16" source="Moudle_big_page_scene10_json.4_8"/>
+			<e:Image id="img_9" x="585.67" y="460.13" source="Moudle_big_page_scene10_json.4_9"/>
+			<e:Image id="img_10" x="761.48" y="454.25" source="Moudle_big_page_scene10_json.4_10"/>
+			<e:Image id="img_11" x="971.57" y="448.18" source="Moudle_big_page_scene10_json.4_11"/>
+			<e:Image id="img_Door1" x="402.82" y="96.18" source="Moudle_big_page_scene10_json.4_12"/>
+			<e:Image id="img_Door2" x="1189" y="-53.72" source="Moudle_big_page_scene10_json.4_14"/>
+			<e:Image id="btnReset" source="big_loading_json.update_png" x="1498" y="1270.64"/>
+
+    </e:Group>
+</e:Skin>

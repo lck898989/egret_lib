@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Moudle_Page14Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="Moudle_page_scene_bg14_jpg" x="0" y="0"/>
+			<e:Rect id="rect_1" width="253.33" height="138.18" x="843.09" y="681.27" anchorOffsetX="128.24" anchorOffsetY="141.42" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_2" width="253.33" height="138.18" x="843.09" y="1062.6" anchorOffsetX="128.24" anchorOffsetY="141.42" fillAlpha="0" strokeAlpha="0"/>
+			<e:Image id="img_tp1_1" source="Moudle_big_page_scene14_json.10_02" x="502.5" y="688.99"/>
+			<e:Image id="img_tp1_2" source="Moudle_big_page_scene14_json.10_03" x="587" y="757.53" anchorOffsetX="277" anchorOffsetY="39.46" width="554" height="52.92" rotation="-12"/>
+			<e:Image id="img_tp1_3" source="Moudle_big_page_scene14_json.10_04" x="344" y="811.53" anchorOffsetX="124" anchorOffsetY="87"/>
+			<e:Image id="img_tp1_4" source="Moudle_big_page_scene14_json.10_04" x="832.75" y="702.34" anchorOffsetX="118" anchorOffsetY="80"/>
+			<e:Image id="img_tp1_5" source="Moudle_big_page_scene14_json.10_01" x="338" y="813.53" anchorOffsetX="47.5" anchorOffsetY="145"/>
+			<e:Image id="img_tp2_1" source="Moudle_big_page_scene14_json.10_02" x="502.5" y="1058.54"/>
+			<e:Image id="img_tp2_2" source="Moudle_big_page_scene14_json.10_03" x="587" y="1127.08" anchorOffsetX="277" anchorOffsetY="39.46" width="554" height="52.92" rotation="-12"/>
+			<e:Image id="img_tp2_3" source="Moudle_big_page_scene14_json.10_04" x="344" y="1181.08" anchorOffsetX="124" anchorOffsetY="87"/>
+			<e:Image id="img_tp2_4" source="Moudle_big_page_scene14_json.10_04" x="832.75" y="1071.89" anchorOffsetX="118" anchorOffsetY="80"/>
+			<e:Image id="img_tp2_6" source="Moudle_big_page_scene14_json.10_01" x="340.98" y="1188.18" anchorOffsetX="86.89" anchorOffsetY="232.88"/>
+			<e:Image id="img_tp2_7" source="Moudle_big_page_scene14_json.10_01" x="336.95" y="1185.59" anchorOffsetX="-4.02" anchorOffsetY="223.79"/>
+			<e:Image id="img_tp2_8" source="Moudle_big_page_scene14_json.10_01" x="334.17" y="1178.86" anchorOffsetX="120.23" anchorOffsetY="145"/>
+			<e:Image id="img_tp2_9" source="Moudle_big_page_scene14_json.10_01" x="337.71" y="1181.89" anchorOffsetX="-31.29" anchorOffsetY="138.94"/>
+			<e:Image id="img_tp2_5" source="Moudle_big_page_scene14_json.10_01" x="338" y="1183.08" anchorOffsetX="47.5" anchorOffsetY="145"/>
+			<e:Image id="img_1" source="Moudle_big_page_scene14_json.10_10" x="1299.52" y="430.46" anchorOffsetX="51" anchorOffsetY="88"/>
+			<e:Image id="img_2" source="Moudle_big_page_scene14_json.10_09" x="1299.52" y="610.71" anchorOffsetX="51" anchorOffsetY="87.5"/>
+			<e:Image id="img_3" source="Moudle_big_page_scene14_json.10_08" x="1299.52" y="791.63" anchorOffsetX="51" anchorOffsetY="88"/>
+			<e:Image id="img_4" source="Moudle_big_page_scene14_json.10_07" x="1294.52" y="971.04" anchorOffsetX="53.5" anchorOffsetY="87.5"/>
+			<e:Image id="img_5" source="Moudle_big_page_scene14_json.10_06" x="1295.52" y="1150.79" anchorOffsetX="53" anchorOffsetY="87.5"/>
+    </e:Group>
+</e:Skin>

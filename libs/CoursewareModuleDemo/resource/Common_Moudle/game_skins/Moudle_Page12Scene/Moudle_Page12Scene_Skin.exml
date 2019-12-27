@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Moudle_Page12Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="Moudle_page_scene_bg12_jpg" x="0" y="0"/>
+      <e:Image id="img_title" source="Moudle_big_page_scene12_json.page_obj_9_1" x="578.6" y="188"/>
+			<e:Image id="img_left_bg" source="Moudle_big_page_scene12_json.page_obj_9_5" x="72" y="316"/>
+			<e:Image id="img_right_bg" source="Moudle_big_page_scene12_json.page_obj_9_6" x="814" y="316"/>
+			<e:Image id="img_left_1" source="Moudle_big_page_scene12_json.page_obj_9_7" x="314" y="508"/>
+			<e:Image id="img_right_1" source="Moudle_big_page_scene12_json.page_obj_9_8" x="1041" y="496"/>
+			<e:Image id="img_target_1" source="Moudle_big_page_scene12_json.page_obj_9_4" x="719" y="506"/>
+			<e:Image id="img_target_2" source="Moudle_big_page_scene12_json.page_obj_9_2" x="404" y="453.5"/>
+			<e:Image id="img_target_3" source="Moudle_big_page_scene12_json.page_obj_9_3" x="1050" y="453.5"/>
+			<e:Image id="btnMerge" source="big_loading_json.clickbtn_png" x="1310" y="1154"/>
+    </e:Group>
+</e:Skin>

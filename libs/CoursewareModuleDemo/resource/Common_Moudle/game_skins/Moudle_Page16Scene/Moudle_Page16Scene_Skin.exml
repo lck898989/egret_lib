@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Moudle_Page16Scene_Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="group">
+		<e:Image source="Moudle_page_scene_bg16_jpg"/>
+		<e:Image id="hourImg" x="825.24" y="526.47" anchorOffsetX="28" source="hour_png" rotation="0" scaleY="-1"/>
+		<e:Image id="secImg" x="825.74" y="525.44" anchorOffsetX="27.5" anchorOffsetY="0" rotation="0" source="sec_png" scaleY="-1"/>
+		<e:Image x="825.74" y="525.93" anchorOffsetX="27.5" anchorOffsetY="27.5" touchEnabled="false" source="center_png"/>
+	</e:Group>
+</e:Skin>

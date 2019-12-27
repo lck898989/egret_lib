@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Moudle_Page3Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="Moudle_page_scene_bg3_jpg" x="0" y="0"/>
+			<e:Image id="img_1" x="194.03" y="200" source="Moudle_big_page_scene3_json.page_obj_15_2"/>
+			<e:Image id="img_2" x="921.06" y="222.97" source="Moudle_big_page_scene3_json.page_obj_15_1"/>
+			<e:Image id="img_3" x="176.07" y="659.76" source="Moudle_big_page_scene3_json.page_obj_15_2"/>
+			<e:Rect id="rect_1" width="662.3" height="393.76" x="194.03" y="201" anchorOffsetX="0" anchorOffsetY="0" strokeAlpha="0" fillAlpha="0"/>
+			<e:Rect id="rect_2" width="518.3" height="553.76" x="921.06" y="222.97" anchorOffsetX="0" anchorOffsetY="0" strokeAlpha="0" fillAlpha="0"/>
+			<e:Rect id="rect_3" width="694.3" height="345.76" x="162.42" y="674" anchorOffsetX="0" anchorOffsetY="0" strokeAlpha="0" fillAlpha="0"/>
+
+    </e:Group>
+</e:Skin>
